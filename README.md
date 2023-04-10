@@ -10,3 +10,7 @@ The code defines the initial state of the problem where all 5 disks are on peg a
 The code also defines the display_state predicate, which prints out the current state of the problem by iterating over each peg and printing the disks on it.
 
 Overall, this code provides a simple implementation of the Towers of Hanoi problem in Prolog. However, it only allows moves to be made one at a time and does not provide a way to automate the solution.
+
+## Built with:
+* Prolog
+* SWI-Prolog
